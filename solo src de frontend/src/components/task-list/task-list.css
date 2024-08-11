@@ -1,0 +1,19 @@
+div {
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  h2 {
+    font-size: 1.5em;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    padding: 5px;
+    border-bottom: 1px solid #ddd;
+  }
+  
